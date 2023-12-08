@@ -1,0 +1,15 @@
+.right{
+    /*background-color: #fff;*/
+    width: 550px;
+    float: left;
+}
+
+#calendar {
+    width: 200px;
+    height: 100px;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:#b12101;
+}

@@ -1,0 +1,72 @@
+.box-1{
+    position: relative;
+}
+.heading{
+    background-color: #4d4d4d;
+    padding: 10px;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -15px;
+}
+.heading::after{
+    content: '';
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    background-color: #5a5959;
+    left: 191px;
+    top:26px;
+    transform:rotate(56deg);
+    z-index: -1;
+} 
+.h-div{
+    background: #fbb03b;
+}
+.p1{
+    padding: 9px 10px;
+    font-size: 11px;
+}
+.icons1{
+    font-size: 16px!important;
+    padding-right: 10px!important;
+    vertical-align: sub;
+}
+.skill-container{
+    width: 90%;
+    background: #4d4d4d;
+    margin: 0px 10px;
+}
+.skill {
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #fff;
+}
+.html{
+    width: 90%;
+    background-color: #fff;
+}
+.css{
+    width: 75%;
+    background-color: #fff;
+}
+.js{
+    width: 80%;
+    background-color: #fff;
+}
+.jquery{
+    width: 70%;
+    background-color: #fff;
+}
+.web{
+    width: 80%;
+    background-color: #fff;
+}
+.gra{
+    width: 70%;
+    background-color: #fff;
+}
+.icons2{
+    padding: 18px 10px;
+}

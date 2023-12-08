@@ -1,0 +1,79 @@
+.name-div{
+    padding: 75px 25px 10px 0px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    display: block;
+}
+.text1{
+    width: 350px;
+    text-align: left;
+    padding-left: 23px;
+    margin-left: 60px;
+    color: #000;
+    font-size: 39px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+    margin-top: 42px;
+    background-color: #ffffff;
+    position: relative;
+    animation: text 4s 1;  
+}
+.text2, .text3{
+    width: 350px;
+    text-align: left;
+    padding-left: 35px;
+    margin-left: 50px;
+    color: rgb(61, 119, 121);
+  font-size: 20px;
+}
+@keyframes text{
+    0%{
+      color: #000;
+      margin-bottom: -50px;
+    }
+    30%{
+      letter-spacing: 25px;
+      margin-bottom: -50px;
+    }
+    85%{
+      letter-spacing: 8px;
+      margin-bottom: -50px;
+    }
+  }
+.box-2{
+    background: #ffff;
+    padding: 30px 40px;
+    margin-top: 15px;
+}  
+.p2{
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+h2{
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+.icons3{
+    vertical-align: bottom;
+    font-size: 21px!important;
+    color: #4d4d4d;
+}
+.p3 span{
+    color: #e78b00; padding-left: 20px;
+}
+.footer {
+    background-color: #252525;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
