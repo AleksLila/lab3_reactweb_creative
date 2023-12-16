@@ -2,7 +2,7 @@ import './Box2.css';
 
 function Box2(){
     return(
-        <div>
+        <div class="right-1">
             <div class="name-div">
                 <div class="text1">Resume</div>
                 <div class="text2">Lila Oleksandr</div>

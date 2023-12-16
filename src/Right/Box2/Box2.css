@@ -4,6 +4,7 @@
     letter-spacing: 3px;
     text-transform: uppercase;
     display: block;
+    margin-bottom: 20px;
 }
 .text1{
     width: 350px;
@@ -44,8 +45,8 @@
   }
 .box-2{
     background: #ffff;
-    padding: 30px 40px;
-    margin-top: 15px;
+    padding: 25px 40px;
+    margin-top: 0px;
 }  
 .p2{
     font-size: 14px;
